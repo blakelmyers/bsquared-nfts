@@ -1,36 +1,36 @@
 const INITIAL_STATE = {
     sections: [
         {
-          title: 'hats',
-          imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+          title: 'cats',
+          imageUrl: 'https://i.imgur.com/oNmSnNN.jpg',
           id: 1,
-          linkUrl: 'shop/hats'
+          linkUrl: 'shop/cats'
         },
         {
-          title: 'jackets',
-          imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+          title: 'robots',
+          imageUrl: 'https://i.imgur.com/iuLX4wQ.jpg',
           id: 2,
-          linkUrl: 'shop/jackets'
+          linkUrl: 'shop/robots'
         },
         {
-          title: 'sneakers',
-          imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+          title: 'alpacas',
+          imageUrl: 'https://i.imgur.com/i3HM70T.jpg',
           id: 3,
-          linkUrl: 'shop/sneakers'
+          linkUrl: 'shop/alpacas'
         },
         {
-          title: 'womens',
-          imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+          title: 'ducks',
+          imageUrl: 'https://i.imgur.com/NUYRuIJ.jpg',
           size: 'large',
           id: 4,
-          linkUrl: 'shop/womens'
+          linkUrl: 'shop/ducks'
         },
         {
-          title: 'mens',
-          imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+          title: 'critterz',
+          imageUrl: 'https://i.imgur.com/sdZjFRB.jpg',
           size: 'large',
           id: 5,
-          linkUrl: 'shop/mens'
+          linkUrl: 'shop/critterz'
         }
       ]
 };

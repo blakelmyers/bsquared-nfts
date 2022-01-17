@@ -1,8 +1,8 @@
 const SHOP_DATA = {
-    hats: {
+    cats: {
       id: 1,
       title: 'Cats',
-      routeName: 'hats',
+      routeName: 'cats',
       items: [
         {
           id: 1,
@@ -60,186 +60,186 @@ const SHOP_DATA = {
         }
       ]
     },
-    sneakers: {
+    robots: {
       id: 2,
-      title: 'Sneakers',
-      routeName: 'sneakers',
+      title: 'Robots',
+      routeName: 'robots',
       items: [
         {
           id: 10,
-          name: 'Adidas NMD',
-          imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
+          name: 'Alligator Robot',
+          imageUrl: 'https://i.imgur.com/6Tm0avj.jpg',
           price: 220
         },
         {
           id: 11,
-          name: 'Adidas Yeezy',
-          imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
+          name: 'Panda Robot',
+          imageUrl: 'https://i.imgur.com/zASLKGN.jpg',
           price: 280
         },
         {
           id: 12,
-          name: 'Black Converse',
-          imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
+          name: 'Seahorse Robot',
+          imageUrl: 'https://i.imgur.com/l0i3ZbM.jpg',
           price: 110
         },
         {
           id: 13,
-          name: 'Nike White AirForce',
-          imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
+          name: 'Red Hair Robot',
+          imageUrl: 'https://i.imgur.com/4tXwIk0.jpg',
           price: 160
         },
         {
           id: 14,
-          name: 'Nike Red High Tops',
-          imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
+          name: 'Rainbow Glasses Robot',
+          imageUrl: 'https://i.imgur.com/LkPbu3O.jpg',
           price: 160
         },
         {
           id: 15,
-          name: 'Nike Brown High Tops',
-          imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
+          name: 'Angel Robot',
+          imageUrl: 'https://i.imgur.com/gY1jSoM.jpg',
           price: 160
         },
         {
           id: 16,
-          name: 'Air Jordan Limited',
-          imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
+          name: 'Owl Robot',
+          imageUrl: 'https://i.imgur.com/JsjiGvf.jpg',
           price: 190
         },
         {
           id: 17,
-          name: 'Timberlands',
-          imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
+          name: 'Afro Robot',
+          imageUrl: 'https://i.imgur.com/iFXDDBt.jpg',
           price: 200
         }
       ]
     },
-    jackets: {
+    alpacas: {
       id: 3,
-      title: 'Jackets',
-      routeName: 'jackets',
+      title: 'Alpacas',
+      routeName: 'alpacas',
       items: [
         {
           id: 18,
-          name: 'Black Jean Shearling',
-          imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+          name: 'Pink Hair Alpaca',
+          imageUrl: 'https://i.imgur.com/KGXXjib.jpg',
           price: 125
         },
         {
           id: 19,
-          name: 'Blue Jean Jacket',
-          imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+          name: 'Jamaica Alpaca',
+          imageUrl: 'https://i.imgur.com/XB3yltg.jpg',
           price: 90
         },
         {
           id: 20,
-          name: 'Grey Jean Jacket',
-          imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+          name: 'Artist Alpaca',
+          imageUrl: 'https://i.imgur.com/FkvARa6.jpg',
           price: 90
         },
         {
           id: 21,
-          name: 'Brown Shearling',
-          imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
+          name: 'Duck Alpaca',
+          imageUrl: 'https://i.imgur.com/qLApDqE.jpg',
           price: 165
         },
         {
           id: 22,
-          name: 'Tan Trench',
-          imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
+          name: 'Party Alpaca',
+          imageUrl: 'https://i.imgur.com/TKZ8kDS.jpg',
           price: 185
         }
       ]
     },
-    womens: {
+    ducks: {
       id: 4,
-      title: 'Womens',
-      routeName: 'womens',
+      title: 'Ducks',
+      routeName: 'ducks',
       items: [
         {
           id: 23,
-          name: 'Blue Tanktop',
-          imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
+          name: 'Swim Duck',
+          imageUrl: 'https://i.imgur.com/A3ulpS9.jpg',
           price: 25
         },
         {
           id: 24,
-          name: 'Floral Blouse',
-          imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
+          name: 'Goofy Duck',
+          imageUrl: 'https://i.imgur.com/VgLLdNX.jpg',
           price: 20
         },
         {
           id: 25,
-          name: 'Floral Dress',
-          imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
+          name: 'Nerdy Duck',
+          imageUrl: 'https://i.imgur.com/Cm3KCl8.jpg',
           price: 80
         },
         {
           id: 26,
-          name: 'Red Dots Dress',
-          imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
+          name: 'Underwear Duck',
+          imageUrl: 'https://i.imgur.com/quvT8aj.jpg',
           price: 80
         },
         {
           id: 27,
-          name: 'Striped Sweater',
-          imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
+          name: 'Shark Duck',
+          imageUrl: 'https://i.imgur.com/5whETND.jpg',
           price: 45
         },
         {
           id: 28,
-          name: 'Yellow Track Suit',
-          imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
+          name: 'Fish Duck',
+          imageUrl: 'https://i.imgur.com/0fqzw4r.jpg',
           price: 135
         },
         {
           id: 29,
-          name: 'White Blouse',
-          imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
+          name: 'Punk Duck',
+          imageUrl: 'https://i.imgur.com/iEkBEp1.jpg',
           price: 20
         }
       ]
     },
-    mens: {
+    critterz: {
       id: 5,
-      title: 'Mens',
-      routeName: 'mens',
+      title: 'Critterz',
+      routeName: 'critterz',
       items: [
         {
           id: 30,
-          name: 'Camo Down Vest',
-          imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
+          name: 'Frog Critterz',
+          imageUrl: 'https://i.imgur.com/8BSzJzM.jpg',
           price: 325
         },
         {
           id: 31,
-          name: 'Floral T-shirt',
-          imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
+          name: 'Mouse Critterz',
+          imageUrl: 'https://i.imgur.com/VL2Pcrb.jpg',
           price: 20
         },
         {
           id: 32,
-          name: 'Black & White Longsleeve',
-          imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
+          name: 'Cat Critterz',
+          imageUrl: 'https://i.imgur.com/P7Exi4w.jpg',
           price: 25
         },
         {
           id: 33,
-          name: 'Pink T-shirt',
-          imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
+          name: 'Bear Critterz',
+          imageUrl: 'https://i.imgur.com/TC7p9p0.jpg',
           price: 25
         },
         {
           id: 34,
-          name: 'Jean Long Sleeve',
-          imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
+          name: 'Robot Critterz',
+          imageUrl: 'https://i.imgur.com/DtSWTfl.jpg',
           price: 40
         },
         {
           id: 35,
-          name: 'Burgundy T-shirt',
-          imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
+          name: 'Silly Critterz',
+          imageUrl: 'https://i.imgur.com/q06e5H7.jpg',
           price: 25
         }
       ]
