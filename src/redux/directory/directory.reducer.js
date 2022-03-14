@@ -26,11 +26,11 @@ const INITIAL_STATE = {
           linkUrl: 'shop/ducks'
         },
         {
-          title: 'critterz',
-          imageUrl: 'https://i.imgur.com/sdZjFRB.jpg',
+          title: 'LemonDay Stands',
+          imageUrl: 'https://i.imgur.com/GmiyC4w.jpg',
           size: 'large',
           id: 5,
-          linkUrl: 'shop/critterz'
+          linkUrl: 'shop/lemonday%20stands'
         }
       ]
 };
